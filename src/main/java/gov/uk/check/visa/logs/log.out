@@ -1,0 +1,2 @@
+2023-07-25 14:07:673 INFO  ResultPage :23 - confirm ResultMessage 
+2023-07-25 14:07:759 INFO  ResultPage :17 - getResultMessage [[ChromeDriver: chrome on windows (bc285d89aa952a6dc3a3756546832ac2)] -> xpath: (//h2)[3]]
